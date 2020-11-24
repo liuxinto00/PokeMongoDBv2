@@ -1,3 +1,9 @@
+/*
+First thing first, i really like the idea of this project. It is definitely cute and very pokemon-ly, and i am pretty sure it attracts a lof of users who are fans of pokemons.
+I also like the design of the web, which impressed me a lot and reminds me of many scenes in the anime.
+One nitpick, I think the font style could be changed to be more vivid and cute.
+Nice job, it is amazing, i like this project.
+*/
 import React, { useState, useEffect } from "react";
 import "./styles/App.css";
 import Pokemon from "./Pokemon.js";
